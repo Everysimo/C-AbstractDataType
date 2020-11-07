@@ -36,13 +36,3 @@ item dequeue(queue q);
 int cancDaItem(queue q,item e);
 
 int stampaCoda(queue q);
-
-int spartizionePunti(queue q,queue q1,queue q2,queue q3,queue q4);
-
-int SpartizioneSimmetrici(queue q,queue q1,queue q2);
-
-float CalcoloSpezzata(queue q1);
-
-queue mergeQueue(queue q1,queue q2);
-
-float CalcoloSpezzata_v2(queue q1,int i);
